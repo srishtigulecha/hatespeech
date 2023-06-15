@@ -61,7 +61,7 @@ if st.button("Detect"):
 """
     st.write("data related to ",search_query,"being scraped from twitter.... ")
 
-    consumer_key = "errfqZMPe593sR2kj1o56dSce" #Your API/Consumer key 
+    consumer_key = "" #Your API/Consumer key 
     consumer_secret = "" #Your API/Consumer Secret Key
     access_token = ""    #Your Access token key
     access_token_secret = "" #Your Access token Secret key
