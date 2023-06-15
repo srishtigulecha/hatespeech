@@ -62,9 +62,9 @@ if st.button("Detect"):
     st.write("data related to ",search_query,"being scraped from twitter.... ")
 
     consumer_key = "errfqZMPe593sR2kj1o56dSce" #Your API/Consumer key 
-    consumer_secret = "20SslpYvL0t5pAdM6oa3DZQB6XH5Ibl2jmjntHkKflc8AZf9Na" #Your API/Consumer Secret Key
-    access_token = "1594314257184985088-Fzo2e6l101TItDJNZUFeZUM1kkEBdF"    #Your Access token key
-    access_token_secret = "Ct9D9PagP3ZeRcKYki3vhFTrEHXm1yCRFKSTlUj9USeos" #Your Access token Secret key
+    consumer_secret = "" #Your API/Consumer Secret Key
+    access_token = ""    #Your Access token key
+    access_token_secret = "" #Your Access token Secret key
 
 
     #Pass in our twitter API authentication key
